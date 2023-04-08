@@ -2,7 +2,7 @@
 Two Layer Neural Network
 
 ## 模型架构
-1. twolayer.py：激活函数、反向传播、loss以及梯度的计算、学习率下降策略、L2正则化、优化器SGD、保存模型。
+1. twolayer.py：激活函数、反向传播、loss以及梯度的计算、学习率下降策略、L2正则化、优化器SGD、保存模型、可视化。
 2. selection.py：对学习率、隐藏层大小、正则化强度超参数的查找。
 3. test.py: 测试集训练。
 
